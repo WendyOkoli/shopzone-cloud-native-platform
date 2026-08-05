@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Dell XPS 15",
+    "price": 2450000,
+    "image": "https://picsum.photos/300/220?1",
+    "description": "15-inch laptop with Intel Core Ultra processor."
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S25",
+    "price": 1180000,
+    "image": "https://picsum.photos/300/220?2",
+    "description": "Flagship Android smartphone."
+  },
+  {
+    "id": 3,
+    "name": "Sony WH-1000XM6",
+    "price": 620000,
+    "image": "https://picsum.photos/300/220?3",
+    "description": "Premium wireless noise-cancelling headphones."
+  },
+  {
+    "id": 4,
+    "name": "Apple Watch Ultra",
+    "price": 980000,
+    "image": "https://picsum.photos/300/220?4",
+    "description": "Smartwatch built for performance and adventure."
+  }
+]
