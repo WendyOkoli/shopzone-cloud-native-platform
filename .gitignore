@@ -9,8 +9,12 @@ app/.env
 
 # Terraform
 terraform/.terraform/
-terraform/*.tfstate
-terraform/*.tfstate.*
+terraform.tfstate
+terraform.tfstate.*
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+crash.log
 
 # VS Code
 .vscode/
